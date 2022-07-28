@@ -16,6 +16,6 @@ Live Url: https://yamamoto-dorastin.github.io/QR-Code/
 2. Add a link for my css stylesheet
 3. Style html using the goven style guide
 
-###Built with 
+### Built with 
 
 - Flexbox 
