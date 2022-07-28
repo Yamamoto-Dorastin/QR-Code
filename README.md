@@ -1,10 +1,10 @@
 # QR-Code
 
-This is a solution [QR code compnent on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+This is a solution for [QR code compnent on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## Overview 
 
-![](imges/screenshot.jpg)
+![](images/screenshot.png.png)
 
 ### Links 
 Solution Url: https://github.com/Yamamoto-Dorastin/QR-Code
